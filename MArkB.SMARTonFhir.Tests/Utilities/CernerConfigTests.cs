@@ -14,8 +14,8 @@ namespace MArkB.SMARTonFhir.Tests.Utilities
     //This is a guid I generated using https://www.guidgenerator.com/online-guid-generator.aspx
     //It has no meaning and is simply used for these unit tests.
     //cea41836-544e-4d49-b4fb-ba0c64b47f8e
-    string testAppClientId = "cea41836-544e-4d49-b4fb-ba0c64b47f8e";
-    string testAppSecret = "ad29f362-9c17-4b28-a07e-20733cb892a3";
+    string testAppClientId = "e4396f13-877d-4a0a-9eb5-06a5b1c6cf9e";
+    string testAppSecret = "";
 
     // serviceIdentifier="0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca"
 
